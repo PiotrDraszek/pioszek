@@ -1,0 +1,6 @@
+D:\_VS2019\Projekty\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\_VS2019\Projekty\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\_VS2019\Projekty\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\_VS2019\Projekty\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\_VS2019\Projekty\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\_VS2019\Projekty\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
